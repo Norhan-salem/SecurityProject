@@ -35,7 +35,7 @@ Aman is a **secure emailing service** that ensures a fully encrypted way to send
 ### 2️⃣ Clone the Repository  
 ```sh
 git clone https://github.com/Norhan-salem/SecurityProject.git
-cd aman
+cd SecurityProject
 
 ```
 
