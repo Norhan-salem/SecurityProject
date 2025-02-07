@@ -136,12 +136,6 @@ We welcome contributions! Follow these steps:
 
 ----------
 
-## 📜 License
-
-Aman is released under the **MIT License**. See [LICENSE](https://chatgpt.com/g/g-rA63DaENC-readme/c/LICENSE) for more details.
-
-----------
-
 ## 🙌 Acknowledgments
 
 -   **FastAPI** for the backend
